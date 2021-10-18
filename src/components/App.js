@@ -9,7 +9,6 @@ function App() {
       <TicketControl />
     </React.Fragment>
   );
-  {/* this is a JSX comment. */ }
 }
 
 export default App;
