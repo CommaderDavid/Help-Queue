@@ -30,7 +30,7 @@ This project uses the following technologies:
 
 <details>
 
-![Help Queue Diagram](/src/img/HelpQueue.png)
+![Help Queue Diagram](/src/img/HelpQueue.jpg)
 
 </details>
 
